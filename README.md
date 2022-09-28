@@ -12,7 +12,7 @@ You can add this library into your project using [Composer](https://getcomposer.
 
 To add **sqs-simple** to your porject just excute on command line:
 ```
-composer require tedicela/sqs-simple
+composer require enersales/sqs-simple
 ```
 
 ## Use cases
