@@ -1,5 +1,5 @@
 {
-    "name": "tedicela/sqs-simple",
+    "name": "enersales/sqs-simple",
     "description": "PHP package for consuming AWS SQS queue in the simple way",
     "type": "library",
     "require": {
@@ -7,12 +7,7 @@
         "aws/aws-sdk-php": "^3.87"
     },
     "license": "MIT",
-    "authors": [
-        {
-            "name": "Tedi Cela",
-            "email": "tedicela@gmail.com"
-        }
-    ],
+    "authors": [],
     "autoload":{
         "psr-4":{
             "SqsSimple\\": "src/"
